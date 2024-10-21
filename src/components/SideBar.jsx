@@ -9,7 +9,7 @@ const SideBar = () => {
         <li>Youtube Music</li>
       </ul>
       <ul className="pt-7 space-y-2">
-        <h1 className="font-bold">You ></h1>
+        <h1 className="font-bold">You {'>'}</h1>
         <li>History</li>
         <li>Playlists</li>
         <li>Your videos</li>
