@@ -1,7 +1,12 @@
+import MainContainer from "./MainContainer"
+import SideBar from "./SideBar"
 
 const Body = () => {
   return (
-    <div>Body</div>
+    <div>
+      <SideBar/>
+      <MainContainer/>
+    </div>
   )
 }
 
